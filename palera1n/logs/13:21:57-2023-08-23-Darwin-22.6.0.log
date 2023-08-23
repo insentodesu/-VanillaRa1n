@@ -1,0 +1,23 @@
+[*] Command ran: ./palera1n.sh --tweaks --semi-tethered 15.6.1
+palera1n | Version 1.4.2-main-f049c56
+Made with ❤ by Nebula, Mineek, Nathan, llsc12, Ploosh, and Nick Chan
+
+[*] Waiting for devices
+[*] Detected normal mode device
+ERROR: No device found!
+ERROR: No device found!
+Hello,  on 15.6.1!
+[*] Switching device into recovery mode...
+ERROR: No device found!
+ERROR: No UDID specified
+Usage: ideviceenterrecovery [OPTIONS] UDID
+
+Makes a device with the supplied UDID enter recovery mode immediately.
+
+OPTIONS:
+  -d, --debug           enable communication debugging
+  -h, --help            prints usage information
+  -v, --version         prints version information
+
+Homepage:    <https://libimobiledevice.org>
+Bug Reports: <https://github.com/libimobiledevice/libimobiledevice/issues>

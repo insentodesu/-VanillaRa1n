@@ -1,0 +1,55 @@
+[*] Command ran: ./palera1n.sh --tweaks --semi-tethered 15.6.1
+palera1n | Version 1.4.2-main-f049c56
+Made with ❤ by Nebula, Mineek, Nathan, llsc12, Ploosh, and Nick Chan
+
+[*] Waiting for devices
+[*] Detected normal mode device
+Hello, iPhone10,4 on 15.6.1!
+[*] Switching device into recovery mode...
+Telling device with udid 5d7c36542a4b8efc8fbbb794abbd9a697daa449e to enter recovery mode.
+Device is successfully switching to recovery mode.
+[*] Waiting for device in recovery mode
+[*] Getting device info...
+[*] Press any key when ready for DFU mode
+[K[1;36mGet ready (3)[K[1;36mGet ready (2)[K[1;36mGet ready (1)[K[1;36mGet ready (0)[0m
+[K[1;36mHold volume down + side button (4)[K[1;36mHold volume down + side button (3)[K[1;36mHold volume down + side button (2)[K[1;36mHold volume down + side button (1)[K[1;36mHold volume down + side button (0)[0m
+[K[1;36mRelease side button, but keep holding volume down (10)[K[1;36mRelease side button, but keep holding volume down (9)[K[1;36mRelease side button, but keep holding volume down (8)[K[1;36mRelease side button, but keep holding volume down (7)[K[1;36mRelease side button, but keep holding volume down (6)[K[1;36mRelease side button, but keep holding volume down (5)[K[1;36mRelease side button, but keep holding volume down (4)[K[1;36mRelease side button, but keep holding volume down (3)[K[1;36mRelease side button, but keep holding volume down (2)[K[1;36mRelease side button, but keep holding volume down (1)[K[1;36mRelease side button, but keep holding volume down (0)[0m
+[-] Device did not enter DFU mode
+[-] Failed to enter DFU mode, trying again
+[*] Waiting for devices
+[*] Detected normal mode device
+Hello, iPhone10,4 on 15.6.1!
+[*] Switching device into recovery mode...
+Telling device with udid 5d7c36542a4b8efc8fbbb794abbd9a697daa449e to enter recovery mode.
+Device is successfully switching to recovery mode.
+[*] Waiting for device in recovery mode
+[*] Getting device info...
+[K[1;36mGet ready (3)[K[1;36mGet ready (2)[K[1;36mGet ready (1)[K[1;36mGet ready (0)[0m
+[K[1;36mHold volume down + side button (4)[K[1;36mHold volume down + side button (3)[K[1;36mHold volume down + side button (2)[K[1;36mHold volume down + side button (1)[K[1;36mHold volume down + side button (0)[0m
+[K[1;36mRelease side button, but keep holding volume down (10)[K[1;36mRelease side button, but keep holding volume down (9)[K[1;36mRelease side button, but keep holding volume down (8)[K[1;36mRelease side button, but keep holding volume down (7)[K[1;36mRelease side button, but keep holding volume down (6)[K[1;36mRelease side button, but keep holding volume down (5)[K[1;36mRelease side button, but keep holding volume down (4)[K[1;36mRelease side button, but keep holding volume down (3)[K[1;36mRelease side button, but keep holding volume down (2)[K[1;36mRelease side button, but keep holding volume down (1)[K[1;36mRelease side button, but keep holding volume down (0)[0m
+[-] Device did not enter DFU mode
+[-] Failed to enter DFU mode, trying again
+[*] Waiting for devices
+[*] Detected normal mode device
+Hello, iPhone10,4 on 15.6.1!
+[*] Switching device into recovery mode...
+Telling device with udid 5d7c36542a4b8efc8fbbb794abbd9a697daa449e to enter recovery mode.
+Device is successfully switching to recovery mode.
+[*] Waiting for device in recovery mode
+[*] Getting device info...
+[K[1;36mGet ready (3)[K[1;36mGet ready (2)[K[1;36mGet ready (1)[K[1;36mGet ready (0)[0m
+[K[1;36mHold volume down + side button (4)[K[1;36mHold volume down + side button (3)[K[1;36mHold volume down + side button (2)[K[1;36mHold volume down + side button (1)[K[1;36mHold volume down + side button (0)[0m
+[K[1;36mRelease side button, but keep holding volume down (10)[K[1;36mRelease side button, but keep holding volume down (9)[K[1;36mRelease side button, but keep holding volume down (8)[K[1;36mRelease side button, but keep holding volume down (7)[K[1;36mRelease side button, but keep holding volume down (6)[K[1;36mRelease side button, but keep holding volume down (5)[K[1;36mRelease side button, but keep holding volume down (4)[K[1;36mRelease side button, but keep holding volume down (3)[K[1;36mRelease side button, but keep holding volume down (2)[K[1;36mRelease side button, but keep holding volume down (1)[K[1;36mRelease side button, but keep holding volume down (0)[0m
+[-] Device did not enter DFU mode
+[-] Failed to enter DFU mode, trying again
+[*] Waiting for devices
+[*] Detected normal mode device
+Hello, iPhone10,4 on 15.6.1!
+[*] Switching device into recovery mode...
+Telling device with udid 5d7c36542a4b8efc8fbbb794abbd9a697daa449e to enter recovery mode.
+Device is successfully switching to recovery mode.
+[*] Waiting for device in recovery mode
+[*] Getting device info...
+[K[1;36mGet ready (3)[K[1;36mGet ready (2)[K[1;36mGet ready (1)[K[1;36mGet ready (0)[0m
+[K[1;36mHold volume down + side button (4)[K[1;36mHold volume down + side button (3)[K[1;36mHold volume down + side button (2)[K[1;36mHold volume down + side button (1)[K[1;36mHold volume down + side button (0)[0m
+[K[1;36mRelease side button, but keep holding volume down (10)[K[1;36mRelease side button, but keep holding volume down (9)[K[1;36mRelease side button, but keep holding volume down (8)[K[1;36mRelease side button, but keep holding volume down (7)[K[1;36mRelease side button, but keep holding volume down (6)[K[1;36mRelease side button, but keep holding volume down (5)[K[1;36mRelease side button, but keep holding volume down (4)[K[1;36mRelease side button, but keep holding volume down (3)[K[1;36mRelease side button, but keep holding volume down (2)[K[1;36mRelease side button, but keep holding volume down (1)[K[1;36mRelease side button, but keep holding volume down (0)[0m
